@@ -1,6 +1,8 @@
 # CCF Proposal: Qubic x Blockchain Futurist Conference
-**Event details**: Blockchain Futurist Conference; Location: HardRock Guitar, Miami, FL;Date: November 5th & 6th 2025,
-**Organizer**: Evandon,
+## Event details: 
+Blockchain Futurist Conference; Location: HardRock Guitar, Miami, FL;Date: November 5th & 6th 2025
+## Organizer: 
+Evandon
 **Funding request**:$155,600.00 + 1/bQubic = aprox 103.51/bQubic,
 **Recipient Wallet Address**: QTTMHKZFRUYFNCFRZUMMFOETWVSAVGICTYVXAAASDFMCBKNVCLZXACWEEHDM 
 
@@ -15,6 +17,8 @@ The objective of this proposal is to outline Qubic’s strategic involvement in 
 ### Funding Objective
 - **Maximum Impact** Title Package: $100,000 + $10,000(contingency), [All further prices contingent on a volumee of 15 team members] Team Lodging Accomodations(Guitar):$30,000, Per diem: $4000,  Airfare: $8000, 1/bQubic for giveaways: Market, Transportation:$600 total: $152,600 + 1/bQubic
 ### Cost Breakdown
+| Item |  Cost(USD) |
+|------|------------|
 | "Title" sponsorship Package | $100,000 |
 | 10% contigiency | $10,000 |
 | Lodging Accomodations ($733 per night @ Hard Rock) | $33,000 |
