@@ -19,7 +19,7 @@ The objective of this proposal is to outline Qubic’s strategic involvement in 
 
 ## Proposal Details
 ### Funding Objective
-- **Maximum Impact** Title Package: $100,000 + $10,000(contingency), [All further prices contingent on a volumee of 15 team members] Team Lodging Accomodations(Guitar):$33,000, Per diem: $4000,  Airfare: $8000, 1/bQubic for giveaways: Market, Transportation:$600 total: $152,600 + 1/bQubic
+- **Maximum Impact** Title Package: $100,000 + $10,000(contingency), [All further prices contingent on a volumee of 15 team members] Team Lodging Accomodations(Guitar):$33,000, Per diem: $4000,  Airfare: $8000, 1/bQubic for giveaways: Market, Transportation:$600 total: $155,600 + 1/bQubic
 ### Cost Breakdown
 | Item | Cost (USD) |
 |------|------------|
