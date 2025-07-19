@@ -2,7 +2,6 @@
 **Event details**: Blockchain Futurist Conference. 
 - location: HardRock Guitar, Miami, FL
 - Date: November 5th & 6th 2025
-
 **Organizer**: Evandon
 **funding request**: TBD
 **Recipient Wallet Address**: QTTMHKZFRUYFNCFRZUMMFOETWVSAVGICTYVXAAASDFMCBKNVCLZXACWEEHDM 
@@ -35,5 +34,3 @@ The objective of this proposal is to outline Qubic’s strategic involvement in 
 - Functional Support: Manages operational logistics, including booth setup, technical support for demos, and coordination of event materials to ensure a seamless experience.
 ### Ambassadors(5) 
 - Guest Engagement; Drives attendee interaction through networking, distributing Qubic-branded giveaways (e.g., tokens, merchandise), and collecting leads and building media to amplify brand visibility.
-
-
