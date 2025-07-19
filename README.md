@@ -1,7 +1,7 @@
 # CCF Proposal: Qubic x Blockchain Futurist Conference
-**Event details**: Blockchain Futurist Conference; Location: HardRock Guitar, Miami, FL;Date: November 5th & 6th 2025
-**Organizer**: Evandon
-**Funding request**: TBD
+**Event details**:Blockchain Futurist Conference; Location: HardRock Guitar, Miami, FL;Date: November 5th & 6th 2025
+**Organizer**:Evandon
+**Funding request**:$155,600.00 + 1/bQubic = aprox 103.51/bQubic 
 **Recipient Wallet Address**: QTTMHKZFRUYFNCFRZUMMFOETWVSAVGICTYVXAAASDFMCBKNVCLZXACWEEHDM 
 
 
