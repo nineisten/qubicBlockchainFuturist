@@ -42,9 +42,10 @@ Below you will find three different sponsorship budget tiers. Together, we will 
 | **Hotel Accommodations** | 5 nights at Hard Rock Guitar Hotel for 8 ticket holders ($300/night/person) | 12,000 |
 | **Per Diem** | Meals and incidentals for 8 ticket holders ($80/day/person for 6 days) | 3,840 |
 | **Airport Transportation** | Round-trip transfers from MIA to hotel for 8 ticket holders ($100/person) | 800 |
-| **Staff Paychecks** | Compensation for 10 staff members not paid via other line items (estimated) | 10,000 |
-| **Airfare (Europe)** | High-average round-trip for 5 passengers from major European cities | 5,000 |
-| **Airfare (US)** | High-average round-trip for 5 passengers from major US cities | 2,500 |
+| **Staff Paychecks** | Compensation for 5 staff members not paid via other line items (estimated) | 5,000 |
+| ** Transportation ** | Cost of 2 rental cars and associated fees for 5 nights |  1400 |
+| **Airfare (Europe)** | High-average round-trip for 3 passengers from International cities | 3,000 |
+| **Airfare (US)** | High-average round-trip for 5 passengers from major US cities | 2500 |
 | **T-Shirts** | 120 custom printed t-shirts for staff and giveaways | 800 |
 | **Stickers** | 1,000 custom stickers for giveaways | 200 |
 | **Button Pins** | 1,000 custom button pins for giveaways | 280 |
@@ -117,6 +118,7 @@ This premium tier maximizes visibility with top branding and the most tickets, p
 | **Total** | **$155,600 + 1/bQubic**| -->
 
 ## Team
+### Organizers (1-3)
 ### Founder or lead Dev(s)(1-2): 
 - Leads high-level strategy, delivers keynote or panel presentations, and engages with VIPs, investors, and media to position Qubic as a blockchain leader.
 ### Core Team(1-3):
@@ -125,3 +127,140 @@ This premium tier maximizes visibility with top branding and the most tickets, p
 - Functional Support: Manages operational logistics, including booth setup, audio & video, technical support for demos, and coordination of event materials to ensure a seamless experience.
 ### Ambassadors(2-10) 
 - Guest Engagement; Drives attendee interaction through networking, distributing Qubic-branded giveaways (e.g., tokens, merchandise), and collecting leads and building media to amplify brand visibility.
+### Social Crew (selected from attending members)
+- Responsible for attending all events for maximum networking. works alongside of the media crew. Includes our "Host", "Co-Host", & "Supporting cast".
+
+
+## Plan of Action
+
+## Nov 3rd 
+
+- Organizers arrive early and secure all arrangements and accommodations. 
+- All non-local team members will arrive at Miami International Airport in Miami Florida.
+- 10am - 9
+    - team checkin (arrangements will be announced ahead of event)
+- 4-5PM
+    - Media Team Assembly
+- 5-8pm 
+    - Dinner/Hangout (more details soon)
+- 8-9pm 
+    - Role call
+    - Announcements
+- 9pm 
+    - lights out
+    
+## Nov 4th
+
+- 7-8:59am EST 
+    - breakfast 
+    - Envelopes will be distributed at this time, everyday and will include:
+        1. contengiencies & incidentals payment: $80
+        2. Itenerary 
+        3. welcome note
+- 9am-9:30am: 
+    - Organizing team begins prelimenary objectives.
+    - Media team assembly: test systems & Greetings
+    - Support team assembly: Greetings
+    - Core team assembly: Greetings
+    - Ambassador team Assembly: Greetings
+- 9:30am - 4pm
+    - Initilize production
+        - Begin Recording for BTS
+        - Preparation & Reahearsals
+            - Core Team
+            - Support Team
+            - Ambassador Team
+- 4pm-7pm 
+    - freetime
+- 7pm - 8pm
+    All Hands
+    - headcount
+    - announcements
+    - pause production. 
+- 8pm - 9pm
+    - personal time
+- 9pm 
+    - lights out
+
+## Nov 5th 
+
+- 6-7am 
+    - media crew assembly: check in. 
+    - organizing team begins the days objectives
+- 7am - 7:30am 
+    - breakfast
+    - envelopes
+- 7:30am - 8am 
+    - all teams proceed to conference area and takes their positions
+- 8am-5pm 
+    - Engagement
+- 5pm - 3am 
+    - Social Team embarks on events
+    - media team covers social teams activities
+- 5pm - 6:00pm 
+    - All hands (minus the social team)
+    - Review & adjust 
+    - feedback & announcements
+- 6pm - 9pm
+    - personal time
+- 9pm
+    - Lights out
+
+## Nov 6th 
+
+- 6-7am 
+    - media crew assembly: check in. 
+    - organizing team begins the days objectives
+- 7am - 7:30am 
+    - breakfast
+    - envelopes
+- 7:30am - 8am 
+    - all teams proceed to conference area and takes their positions
+- 8am-5pm 
+    - Engagement
+- 5pm - 3am
+    - free time
+
+## Nov 7th 
+
+- 3am
+    - end production
+    - Media Crew signs off
+    - lights out
+- 8am-10am
+    - breakfast 
+    - envelopes
+- 10am - 12pm 
+    - all hands
+        - recap
+        - breifings 
+        - Feedback
+        - Payments
+- 12pm until checkout
+    - personal time
+    - unwind 
+
+## Nov 8th
+- 8am
+    - Organizing team handles departure arrangements
+- 10am - until
+    - all teams Checkout
+    - fly home
+
+## Nov 9th  
+
+- all day 
+    - Organizing team Drafts Final report
+    - Get update on Videos and Photos
+    - All teams follow-up with high value contacts
+
+## Nov 10 
+
+    - Begin presenting media
+    - Initial Report Review
+
+## Complete Within 4 days of event
+
+    - video and Photo edits for social media
+    - Event Report Final Draft made available
+
