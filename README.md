@@ -236,7 +236,7 @@ This premium tier maximizes visibility with top branding and the most tickets, p
         - breifings 
         - Feedback
         - Payments
-- 12pm until checkout
+- 12pm - checkout
     - personal time
     - unwind 
 
@@ -256,11 +256,11 @@ This premium tier maximizes visibility with top branding and the most tickets, p
 
 ## Nov 10 
 
-    - Begin presenting media
-    - Initial Report Review
+- Begin presenting media
+- Initial Report Review
 
 ## Complete Within 4 days of event
 
-    - video and Photo edits for social media
-    - Event Report Final Draft made available
+- video and Photo edits for social media
+- Event Report Final Draft made available
 
