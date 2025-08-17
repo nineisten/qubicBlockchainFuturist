@@ -119,7 +119,7 @@ Below you will find three different sponsorship budget tiers. Together, we will 
 
 ## Team
 ### Organizers (1-3)
-- Responsible for All conference correspondence, bookings, and other arrangements. 
+- Responsible for all correspondence between conference reps, bookings, payments, and other arrangements. Vital to the execution of production. 
 ### Founder or lead Dev(s)(1-2): 
 - Leads high-level strategy, delivers keynote or panel presentations, and engages with VIPs, investors, and media to position Qubic as a blockchain leader.
 ### Core Team(1-3):
@@ -131,7 +131,8 @@ Below you will find three different sponsorship budget tiers. Together, we will 
 ### Social Crew (selected from attending members)
 - Responsible for attending all events for maximum networking. This team works alongside the media crew and includes a "Host", "Co-Host", & "Supporting cast".
 ## Plan of Action
-## Proposal Accepted
+
+### Proposal Accepted
 - Immediately book the Selected Tier and all accompanying add ons.
 - followup meeting with conference reps
 - book all travel and accomodations once liquid funds become available
@@ -139,7 +140,7 @@ Below you will find three different sponsorship budget tiers. Together, we will 
 - send all promotional media to print
 - Confirm all team members within 48hours of acceptance
 
-## Nov 3rd 
+### Nov 3rd 
 - Organizers arrive early and secure all arrangements and accommodations. 
 - All non-local team members will arrive at Miami International Airport in Miami Florida.
 - 10am - 9am
@@ -153,7 +154,7 @@ Below you will find three different sponsorship budget tiers. Together, we will 
     - Announcements
 - 9pm 
     - lights out
-## Nov 4th
+### Nov 4th
 - 7-8:59am EST 
     - breakfast 
     - Envelopes will be distributed at this time, everyday and will include:
@@ -184,7 +185,7 @@ Below you will find three different sponsorship budget tiers. Together, we will 
     - personal time
 - 9pm 
     - lights out
-## Nov 5th 
+### Nov 5th 
 - 6-7am 
     - media crew assembly: check in. 
     - organizing team begins the days objectives
@@ -206,7 +207,7 @@ Below you will find three different sponsorship budget tiers. Together, we will 
     - personal time
 - 9pm
     - Lights out
-## Nov 6th 
+### Nov 6th 
 - 6-7am 
     - media crew assembly: check in. 
     - organizing team begins the days objectives
@@ -219,7 +220,7 @@ Below you will find three different sponsorship budget tiers. Together, we will 
     - Engagement
 - 5pm - 3am
     - free time
-## Nov 7th 
+### Nov 7th 
 - 3am
     - end production
     - Media Crew signs off
@@ -236,22 +237,22 @@ Below you will find three different sponsorship budget tiers. Together, we will 
 - 12pm - checkout
     - personal time
     - unwind 
-## Nov 8th
+### Nov 8th
 - 8am
     - Organizing team handles departure arrangements
 - 10am - until
     - all teams Checkout
     - fly home
 
-## Nov 9th  
+### Nov 9th  
 - all day 
     - Organizing team Drafts Final report
     - Get update on Videos and Photos
     - All teams follow-up with high value contacts
-## Nov 10 
+### Nov 10 
 - Begin presenting media
 - Initial Report Review
-## Complete Within 4 days of event
+### Complete Within 4 days of event
 - video and Photo edits for social media
 - Event Report Final Draft made available
 
