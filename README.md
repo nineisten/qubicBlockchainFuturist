@@ -1,258 +1,108 @@
-# CCF Proposal: Qubic x Blockchain Futurist Conference
-**Event details**: 
-- Blockchain Futurist Conference
-- Location: HardRock Guitar, Miami, FL
-- Date: November 5th & 6th 2025
+# Blockchain Futurist Conference (BFC) USA CCF Proposal
 
-**Organizer**: Evandon
+## 1. Summary
+This proposal outlines a comprehensive plan for participation in the Blockchain Futurist Conference USA 2025, a premier event for blockchain, Web3, and decentralized technology enthusiasts, developers, and industry leaders. The initiative includes gold-tier sponsorship, hosting side events, media production, team deployment, and promotional activities to promote the Qubic ecosystem. The total proposed budget is $193,593.70, covering travel, conference fees, staff, materials, and a 15% contingency. Key objectives include engaging over 1,500 attendees, securing developer interest, generating high-quality media content, and achieving measurable growth in wallet signups and integrations. The event takes place on November 5-6, 2025, at the Hard Rock Guitar Hotel & Seminole Resort in Hollywood, Florida, with team activities spanning from Monday, November 3, to Saturday, November 8, 2025, including setup, engagement, and wrap-up. The conference features main stages, exhibition halls, workshops, bootcamps, roundtables, and networking events in an immersive venue like the DAER Dayclub & Nightclub.
 
-**Funding request**:$155,600.00 + 1/bQubic = aprox 103.51/bQubic
+## 2. Rationale
+The Blockchain Futurist Conference USA 2025 represents a strategic opportunity to elevate the Qubic project's visibility within the blockchain, Web3, and AI communities. As the U.S. debut of Canada's largest and longest-running Web3 event, BFC USA attracts developers, industry operators, and potential collaborators interested in innovative technologies like Qubic. Participation will enable direct engagement with at least five developers for building on Qubic, foster connections with industry leaders, and generate promotional content to boost online presence. The event's focus on immersive experiences, including VIP cabanas and multiple stages, aligns with Qubic's goals for ecosystem expansion. In a competitive landscape, such events are essential for networking, securing invitations to future meetups, and driving user adoption through giveaways and interactions. Without this investment, Qubic risks missing key opportunities for growth and partnerships in the rapidly evolving blockchain space.
 
-**Recipient Wallet Address**: QTTMHKZFRUYFNCFRZUMMFOETWVSAVGICTYVXAAASDFMCBKNVCLZXACWEEHDM 
+## 3. Proposal Details
+The proposal encompasses sponsorship, team staffing, promotional materials, and event logistics to maximize impact at BFC USA. Key components include:
 
+- **Sponsorship and Conference Activities**: Gold-tier sponsor package ($35,000), AI segment panel or keynote ($35,000), side event ($25,000), and mixer ($15,000) to ensure prominent visibility and engagement opportunities, including booth presence in the exhibition hall and access to workshops or roundtables.
+- **Travel and Accommodations**: Car rentals for 2 vehicles ($600), lodging for 8 guests at an average of $655 per night ($29,800), and parking for 2 vehicles at $50 per day ($100). Venue proximity to Fort Lauderdale-Hollywood International Airport (FLL) facilitates efficient travel.
+- **Staffing**: A dedicated team including a 3-man insured media crew plus editor ($10,000), social media expert ($4,000), core eco team speaker ($1,200), 2 ambassadors for booth logistics ($2,400), and lead organizer ($2,000).
+- **Materials and Design**: Graphic designer for event media ($2,000), promotional items such as 200 t-shirts ($1,400), 1,000 stickers ($400), 1,000 magnets ($400), 1,000 buttons ($400), 1,000 bags ($2,500), and 1,000 pens ($750). Team identity items include 24 polo shirts ($288) and 8 hats ($120). Decor is TBD ($0).
+- **Contingency**: 15% buffer ($25,235.70) for unforeseen expenses.
 
-## Summary
-The objective of this proposal is to outline Qubic’s strategic involvement in the Blockchain Futurist Conference in Miami, Florida, a pivotal opportunity to elevate the Qubic Ecosystem’s global presence. By integrating into the curated experience of BFC, we will engage attendees through dynamic stage presentations, targeted networking, and impactful giveaways. These efforts will further position Qubic as a leader in the blockchain industry, fostering meaningful connections and amplifying our brand on the world stage.
+These elements ensure a professional presence, high-quality content capture, and effective attendee outreach, leveraging the event's networking features like VIP lounges.
 
-## Rationale
- The Blockchain Futurist Conference, debuting in the U.S. on November 5-6, 2025, at Miami’s DAER Dayclub and Guitar Hotel, positions Qubic to dominate the "Crypto Capital" major sponsor. This premier Web3 event, expecting 10,000+ attendees, offers Qubic unparalleled exposure through 100+ media partners like Cointelegraph, prime main stage time for our Founder to engage investors, and branded activations like the UNNY Interactive Futurist Game with token-based incentives. Exclusive VIP cabanas and hosted mixers will foster high-level connections, while a customized expo booth amplifies our presence. A high level sponsorship ensures top-tier branding across all channels, cementing Qubic’s leadership in the decentralized future. Securing this opportunity at the Blockchain Futurist Conference will allow Qubic to drive mass adoption.
+## 4. Plan of Execution
+The execution plan follows a detailed daily schedule from Monday, November 3, to Saturday, November 8, 2025, focusing on preparation, engagement, production, and wrap-up. Activities are coordinated to optimize team efficiency, media capture, and networking, aligning with the main conference days (November 5-6). Mornings are for setup and production, afternoons for engagement and meals, evenings for networking and rest. The schedule is color-coded: green for team prep/production, teal for conference engagement, and gray for downtime/rest.
 
-## Proposal Details
-### Funding Objective
+| Time       | Mon 3 (Nov 3)            | Tue 4 (Nov 4)            | Wed 5 (Nov 5)            | Thurs 6 (Nov 6)          | Fri 7 (Nov 7)            | Sat 8 (Nov 8)            |
+|------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| 12:00 AM   |                          | Return to lodging        | Return to lodging        |                          | Return to lodging        | Return E                 |
+| 12:30 AM   |                          | Lights Out               | Lights Out               |                          | Lights Out               | Lights out               |
+| 6:00 AM    |                          | Breakfast/Team Envelopes are distributed | Breakfast/Team Envelopes are distributed |                          |                          |                          |
+| 6:30 AM    |                          | Media Crew check in \| organizers begin the days objectives |                          |                          |                          |                          |
+| 7:00 AM    | Team members inbound to Fort Lauderdale | Breakfast/Team Envelopes are distributed | Breakfast/Team Envelopes are distributed | Breakfast/Team Envelopes are distributed | Breakfast/Team Envelopes are distributed |                          |
+| 7:30 AM    | organizer(s) arrive early to begin | Team Dispatches to conference | Team Dispatches to conference |                          |                          |                          |
+| 8:00 AM    |                          | Take Positions \| Start Production | Take Positions \| Start Production |                          |                          |                          |
+| 8:30 AM    |                          | Breakfast Ends at 9am    | Breakfast Ends at 9am    | Breakfast Ends at 9am    |                          |                          |
+| 9:00 AM    | Organizer(s) begin work on primary objectives \| Media Team assembly | Conference Engagement | Conference Engagement | Start production \| All hands | Clean up                  |
+| 9:30 AM    | Begin production \| record for BTS & Mini Doc footage \| Team Prep & rehearsals |                          |                          |                          | Pack up                  |
+| 10:00 AM   | Team Prep and rehearsals |                          |                          | Recap                    | Checkout                 |
+| 10:30 AM   |                          |                          |                          | Feedback                 | Return to Airport        |
+| 11:00 AM   |                          |                          |                          | Close out proceedings    |                          |
+| 11:30 AM   |                          |                          |                          | Cut Production           | Fly Out                  |
+| 12:00 PM   | Lunch                    | Begin Lunch rotation     | End Lunch Rotation       | Free Time                |                          |
+| 1:00 PM    | Resume Prep              |                          |                          |                          |                          |
+| 1:30 PM    | End lunch Rotation at 2  | End lunch rotation at 2  |                          |                          |                          |
+| 3:30 PM    | Prep ends at 4pm         |                          |                          |                          |                          |
+| 4:00 PM    | Check-in To accommodations | Freetime             | Begin closeout           | Begin Closeout           |                          |
+| 4:30 PM    |                          |                          | Closeout                 | Closeout                 |
+| 5:00 PM    | Free Time                | Return to lodging        | Return to lodging        |                          |                          |
+| 5:30 PM    | Dinner                   |                          |                          |                          |                          |
+| 6:00 PM    | Dinner                   | All hands                | All hands                |                          |                          |
+| 6:30 PM    |                          | Dinner                   | Dinner                   |                          |                          |
+| 7:00 PM    | Free Time                | Role Call                |                          |                          |                          |
+| 7:30 PM    | Free Time Ends at 8pm    | Announcements            | Free time                | Free time                |                          |
+| 8:00 PM    | Role Call                | Personal time            | End house recording \| Social Crew Goes out to networking events | End house recording \| Social Crew Goes out to networking events |                          |
+| 8:30 PM    | Late Announcements       |                          |                          |                          |                          |
+| 9:00 PM    | Lights out               | Lights out               |                          |                          |                          |
+| 11:30 PM   | Cut production           | Cut Production           |                          |                          |                          |
 
-Below you will find three different sponsorship budget tiers. Together, we will all agree on which sponsorship engagement should become our objective. 
+## 5. Budget
+The budget is structured by categories, with itemized costs for transparency. The grand total includes a 15% contingency for flexibility.
 
-- **Maximum Impact** Title: $100,000 + contingency and other fees such as booth rentals, mixers,etc. [All further prices contingent on a volume of 30 team members].
+| Item           | Count | Description                          | Price    | Fees | Total      | Categories | Subcategories |
+|----------------|-------|--------------------------------------|----------|------|------------|------------|---------------|
+| **Travel**     |       |                                      |          |      |            |            |               |
+| Car Rental     | 2     |                                      | $300.00  |      | $600.00    | Travel     | Transportation|
+| Lodging        | 8     | $655 avg per night per guest         | $3,725.00|      | $29,800.00 | Travel     | Accommodations|
+|                |       |                                      |          |      | $0.00      | Travel     | Miscellaneous |
+| **Conference**|       |                                      |          |      |            |            |               |
+| Sponsor package| 1     | Gold Tier                            | $35,000.00|      | $35,000.00 | Conference | General       |
+| AI Segment     | 1     | Panel or Keynote                     | $35,000.00|      | $35,000.00 | Conference | General       |
+| Event          | 1     | Side Event                           | $25,000.00|      | $25,000.00 | Conference | General       |
+| Mixer          | 1     | Mixer                                | $15,000.00|      | $15,000.00 | Conference | General       |
+| Parking        | 2     | 25 per day per vehicle = $50         | $50.00   |      | $100.00    | Conference | General       |
+| **Staff**      |       |                                      |          |      |            |            |               |
+| Insured Crew   | 1     | 3 man team + Editor                  | $10,000.00|      | $10,000.00 | Staff      | Media         |
+| Social Media Expert | 1     | Social media Expert responsible for Planning and executing all social media engagement | $4,000.00 |      | $4,000.00  | Staff      | Media         |
+| Speaker        | 1     | Core Eco Team for speaking engagements | $1,200.00 |      | $1,200.00  | Staff      | Core          |
+| Ambassador     | 2     | Handles booth Logistics              | $1,200.00 |      | $2,400.00  | Staff      | Support       |
+| Lead           | 1     | Responsible for organizing Event     | $2,000.00 |      | $2,000.00  | Staff      | Organizer     |
+| **Materials**  |       |                                      |          |      |            |            |               |
+| Graphic Designer | 1     | Create designs for all media in use at event including booth | $2,000.00 |      | $2,000.00  | Materials  | Design        |
+| Teeshirts      | 200   | Assorted sized tees                  | $7.00    |      | $1,400.00  | Materials  | Promotional   |
+| Stickers       | 1000  | 4x2                                  | $0.40    |      | $400.00    | Materials  | Promotional   |
+| Magnets        | 1000  | 5x2                                  | $0.40    |      | $400.00    | Materials  | Promotional   |
+| Buttons        | 1000  | 1”                                   | $0.40    |      | $400.00    | Materials  | Promotional   |
+| Bags           | 1000  | 12 x 10 canvas bag                   | $2.50    |      | $2,500.00  | Materials  | Promotional   |
+| Pens           | 1000  | Ballpoint                            | $0.75    |      | $750.00    | Materials  | Promotional   |
+| TBD            |       | TBD                                  |          |      | $0.00      | Materials  | Decor         |
+| Polo Shirts    | 24    | Polos                                | $12.00   |      | $288.00    | Materials  | Team Identity |
+| Hats           | 8     | Golf Hats                            | $15.00   |      | $120.00    | Materials  | Team Identity |
+| **Contingency**|       |                                      |          |      |            |            |               |
+| 15%            | 1     |                                      |          |      | $25,235.70 | Contingency| General       |
+| **Grand Total**|       |                                      | $134,513.45 | $0.00 | **$193,593.70** |            |               |
 
-- **Major Impact**  Platinum: $50,000 + contingency and other fees. [All further prices contingent on a volume of 23 team members]
+## 6. Goals & KPIs
+Success will be measured against the following goals and KPIs, ensuring accountability and alignment with Qubic's growth objectives. Placeholders have been filled with practical tracking methods based on best practices, such as using lead capture tools and targeted engagement strategies.
 
-- **Impactful** Gold: 35,000 + contingency and other fees. [all further prices contingent on a volume of 8 team members]
+| Goal                     | Description                                                                 | Target                          | KPI                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|---------------------------------|---------------------------------------------------------------------|
+| Booth interactions       | Engage with conference attendees                                            | 1.5k+ interactions              | Tracked by badge scans, QR code check-ins, and giveaway entry counts |
+| Stage Time               | Deliver a keynote speech or a panel                                         | Gather footage of talk to use for content | Recorded Media to apply towards online presence and future campaigns |
+| Developers               | Engage with at least 5 devs who are interested in building on Qubic         | Bring the devs to us with engaging booth demos, technical workshops, and targeted networking at dev-focused sessions | Written followup within 3 business days following the conference    |
+| Other Interest           | Connect with Industry Leaders and Operators                                 | Use the mixer and side event to connect with high value objectives. | Written followup within 3 business days following the conference    |
+| Printed or Written Invites to Future events | Achieve invites to events, meetups, or conferences.                         | Look out for flyer invites and apply high level networking. Apply events to social crew’s schedule. | The social schedule will have documented entries of all past and future events derived by this effort |
+| Media Output             | Deliver high quality photos and videos of the event.                        | Media Team will execute a documentary styled recording. As well as capture interviews and event footage | 100+ photos (including photos from videos), 1 mini-documentary, several shorts and trailers, 1 fully edited Keynote or panel, a copy of all footage for future usage. |
+| Wallet Signups & integrations | Garner 100+ new wallet registration signups                                 | Use Giveaway as an attraction for guests to signup | Giveaway signups and giveaway wallet transactions                   |
+| Promotional outreach     | Giveaway Promotional Items. Give away as much as 100% off all promotional items | Empty Booth, no boxes to carry home. | Tracked by zero remaining inventory at event end                    |
+| Final report             | Written report documenting the outcome                                      | Draft a report detailing all KPI results and Other findings. | Final report made available within 5 business days of conference.   |
 
-### Tier Cost Breakdowns
-
-**Gold Tier**
-| Category | Description | Estimated Cost (USD) |
-|----------|-------------|----------------------|
-| **Base Sponsorship** | Gold package booth ($35,000) + AI panel/keynote ($10,000) | 45,000 |
-| **Happy Hour** | Sponsorship of a happy hour event | 15,000 |
-| **Custom Event** | Additional custom event activation | 25,000 |
-| **Insured Video Crew** | Crew for 2-day conference coverage, including shooting and basic editing | 7,000 |
-| **Social Media Expert** | Freelance expert for event management and promotion | 2,000 |
-| **Graphic Designer** | Designer for booth graphics and layout | 1,500 |
-| **Hotel Accommodations** | 5 nights at Hard Rock Guitar Hotel for 8 ticket holders ($300/night/person) | 12,000 |
-| **Per Diem** | Meals and incidentals for 8 ticket holders ($80/day/person for 6 days) | 3,840 |
-| **Airport Transportation** | Round-trip transfers from MIA to hotel for 8 ticket holders ($100/person) | 800 |
-| **Staff Paychecks** | Compensation for 5 staff members not paid via other line items (estimated) | 5,000 |
-| ** Transportation ** | Cost of 2 rental cars and associated fees for 5 nights |  1400 |
-| **Airfare (Europe)** | High-average round-trip for 3 passengers from International cities | 3,000 |
-| **Airfare (US)** | High-average round-trip for 5 passengers from major US cities | 2500 |
-| **T-Shirts** | 120 custom printed t-shirts for staff and giveaways | 800 |
-| **Stickers** | 1,000 custom stickers for giveaways | 200 |
-| **Button Pins** | 1,000 custom button pins for giveaways | 280 |
-| **QUBIC Giveaway** | 200 million QUBIC tokens (at current price of ~$0.000003/token) | 600 |
-| **Subtotal** | | 131,520 |
-| **15% Contingency** | Buffer for unexpected expenses | 19,728 |
-| **Grand Total** | | **151,248** |
-
-- This tier offers moderate visibility with a standard booth and limited tickets, suitable for a cost-effective entry into the conference.
-
-**Platinum Tier**
-| Category | Description | Estimated Cost (USD) |
-|----------|-------------|----------------------|
-| **Base Sponsorship** | Platinum package booth ($50,000) + Future of AI segment ($35,000) | 85,000 |
-| **Happy Hour** | Sponsorship of a happy hour event | 15,000 |
-| **Custom Event** | Additional custom event activation | 25,000 |
-| **Insured Video Crew** | Crew for 2-day conference coverage, including shooting and basic editing | 7,000 |
-| **Social Media Expert** | Freelance expert for event management and promotion | 2,000 |
-| **Graphic Designer** | Designer for booth graphics and layout | 1,500 |
-| **Hotel Accommodations** | 5 nights at Hard Rock Guitar Hotel for 23 ticket holders ($300/night/person) | 34,500 |
-| **Per Diem** | Meals and incidentals for 23 ticket holders ($80/day/person for 6 days) | 11,040 |
-| **Airport Transportation** | Round-trip transfers from MIA to hotel for 23 ticket holders ($100/person) | 2,300 |
-| **Staff Paychecks** | Compensation for 10 staff members not paid via other line items (estimated) | 10,000 |
-| **Airfare (Europe)** | High-average round-trip for 5 passengers from major European cities | 5,000 |
-| **Airfare (US)** | High-average round-trip for 5 passengers from major US cities | 2,500 |
-| **T-Shirts** | 120 custom printed t-shirts for staff and giveaways | 800 |
-| **Stickers** | 1,000 custom stickers for giveaways | 200 |
-| **Button Pins** | 1,000 custom button pins for giveaways | 280 |
-| **QUBIC Giveaway** | 200 million QUBIC tokens (at current price of ~$0.000003/token) | 600 |
-| **Subtotal** | | 202,720 |
-| **15% Contingency** | Buffer for unexpected expenses | 30,408 |
-| **Grand Total** | | **233,128** |
-
-- This tier provides enhanced visibility with a larger booth and more tickets, ideal for broader engagement.
-
-**Title Tier**
-| Category | Description | Estimated Cost (USD) |
-|----------|-------------|----------------------|
-| **Base Sponsorship** | Title package including branded experience and booth ($100,000) + Future of AI segment ($35,000) | 135,000 |
-| **Happy Hour** | Sponsorship of a happy hour event | 15,000 |
-| **Custom Event** | Additional custom event activation | 25,000 |
-| **Insured Video Crew** | Crew for 2-day conference coverage, including shooting and basic editing | 7,000 |
-| **Social Media Expert** | Freelance expert for event management and promotion | 2,000 |
-| **Graphic Designer** | Designer for booth graphics and layout | 1,500 |
-| **Hotel Accommodations** | 5 nights at Hard Rock Guitar Hotel for 30 ticket holders ($300/night/person) | 45,000 |
-| **Per Diem** | Meals and incidentals for 30 ticket holders ($80/day/person for 6 days) | 14,400 |
-| **Airport Transportation** | Round-trip transfers from MIA to hotel for 30 ticket holders ($100/person) | 3,000 |
-| **Staff Paychecks** | Compensation for 10 staff members not paid via other line items (estimated) | 10,000 |
-| **Airfare (Europe)** | High-average round-trip for 5 passengers from major European cities | 5,000 |
-| **Airfare (US)** | High-average round-trip for 5 passengers from major US cities | 2,500 |
-| **T-Shirts** | 120 custom printed t-shirts for staff and giveaways | 800 |
-| **Stickers** | 1,000 custom stickers for giveaways | 200 |
-| **Button Pins** | 1,000 custom button pins for giveaways | 280 |
-| **QUBIC Giveaway** | 200 million QUBIC tokens (at current price of ~$0.000003/token) | 600 |
-| **Subtotal** | | 267,280 |
-| **15% Contingency** | Buffer for unexpected expenses | 40,092 |
-| **Grand Total** | | **307,372** |
-
-- This premium tier maximizes visibility with top branding and the most tickets, positioning QUBIC as a conference leader.
-<!-- 
-| Item | Cost (USD) |
-|------|------------|
-| "Title" sponsorship Package | $100,000 |
-| 10% contigiency | $10,000 |
-| Lodging Accomodations ($733 per night @ Hard Rock) | $33,000 |
-| Airfare (from US & Europe @ $533 avg Round Trip) | $8000 |
-| Per Diem (89 per day) | 4000 |
-| Transportation to/from Airport ($40 round trip) | $600 |
-| 1/bQubic | Market |
-| **Total** | **$155,600 + 1/bQubic**| -->
-
-## Team
-### Organizers (1-3)
-- Responsible for all correspondence between conference reps, bookings, payments, and other arrangements. Vital to the execution of production. 
-### Founder or lead Dev(s)(1-2): 
-- Leads high-level strategy, delivers keynote or panel presentations, and engages with VIPs, investors, and media to position Qubic as a blockchain leader.
-### Core Team(1-3):
-- Presentation Leads: Oversees Qubic’s stage presence, delivering technical demos, business pitches, or panel discussions to showcase Qubic’s technology and ecosystem.
-### Service Team(3-15+):
-- Functional Support: Manages operational logistics, including booth setup, audio & video, technical support for demos, and coordination of event materials to ensure a seamless experience.
-### Ambassadors(2-10) 
-- Guest Engagement; Drives attendee interaction through networking, distributing Qubic-branded giveaways (e.g., tokens, merchandise), and collecting leads and building media to amplify brand visibility.
-### Social Crew (selected from attending members)
-- Responsible for attending all events for maximum networking. This team works alongside the media crew and includes a "Host", "Co-Host", & "Supporting cast".
-## Plan of Action
-
-### Proposal Accepted
-- Immediately book the Selected Tier and all accompanying add ons.
-- followup meeting with conference reps
-- book all travel and accomodations once liquid funds become available
-- pay media crew deposit
-- send all promotional media to print
-- Confirm all team members within 48hours of acceptance
-
-### Nov 3rd 
-- Organizers arrive early and secure all arrangements and accommodations. 
-- All non-local team members will arrive at Miami International Airport in Miami Florida.
-- 10am - 9am
-    - team checkin (arrangements will be announced ahead of event)
-- 4-5PM
-    - Media Team Assembly
-- 5-8pm 
-    - Dinner/Hangout (more details soon)
-- 8-9pm 
-    - Role call
-    - Announcements
-- 9pm 
-    - lights out
-### Nov 4th
-- 7-8:59am EST 
-    - breakfast 
-    - Envelopes will be distributed at this time, everyday and will include:
-        1. contengiencies & incidentals payment: $80
-        2. Itenerary 
-        3. welcome note
-- 9am-9:30am: 
-    - Organizing team begins prelimenary objectives.
-    - Media team assembly: test systems & Greetings
-    - Support team assembly: Greetings
-    - Core team assembly: Greetings
-    - Ambassador team Assembly: Greetings
-- 9:30am - 4pm
-    - Initilize production
-        - Begin Recording for BTS
-        - Preparation & Reahearsals
-            - Core Team
-            - Support Team
-            - Ambassador Team
-- 4pm-7pm 
-    - freetime
-- 7pm - 8pm
-    All Hands
-    - headcount
-    - announcements
-    - pause production. 
-- 8pm - 9pm
-    - personal time
-- 9pm 
-    - lights out
-### Nov 5th 
-- 6-7am 
-    - media crew assembly: check in. 
-    - organizing team begins the days objectives
-- 7am - 7:30am 
-    - breakfast
-    - envelopes
-- 7:30am - 8am 
-    - all teams proceed to conference area and takes their positions
-- 8am-5pm 
-    - Engagement
-- 5pm - 3am 
-    - Social Team embarks on events
-    - media team covers social teams activities
-- 5pm - 6:00pm 
-    - All hands (minus the social team)
-    - Review & adjust 
-    - feedback & announcements
-- 6pm - 9pm
-    - personal time
-- 9pm
-    - Lights out
-### Nov 6th 
-- 6-7am 
-    - media crew assembly: check in. 
-    - organizing team begins the days objectives
-- 7am - 7:30am 
-    - breakfast
-    - envelopes
-- 7:30am - 8am 
-    - all teams proceed to conference area and takes their positions
-- 8am-5pm 
-    - Engagement
-- 5pm - 3am
-    - free time
-### Nov 7th 
-- 3am
-    - end production
-    - Media Crew signs off
-    - lights out
-- 8am-10am
-    - breakfast 
-    - envelopes
-- 10am - 12pm 
-    - all hands
-        - recap
-        - breifings 
-        - Feedback
-        - Payments
-- 12pm - checkout
-    - personal time
-    - unwind 
-### Nov 8th
-- 8am
-    - Organizing team handles departure arrangements
-- 10am - until
-    - all teams Checkout
-    - fly home
-
-### Nov 9th  
-- all day 
-    - Organizing team Drafts Final report
-    - Get update on Videos and Photos
-    - All teams follow-up with high value contacts
-### Nov 10 
-- Begin presenting media
-- Initial Report Review
-### Complete Within 4 days of event
-- video and Photo edits for social media
-- Event Report Final Draft made available
-
+## 7. Conclusion
+This CCF proposal for the Blockchain Futurist Conference USA 2025 positions Qubic for significant advancement through targeted engagement, content creation, and networking. With a structured plan, detailed budget, and clear KPIs, the initiative promises high ROI in terms of developer acquisition, community growth, and brand elevation. Approval and funding will enable execution, driving long-term value for the Qubic ecosystem. We recommend proceeding to capitalize on this opportunity.
