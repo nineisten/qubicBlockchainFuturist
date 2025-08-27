@@ -31,45 +31,6 @@ The team includes a mix of core personnel (e.g., speaker, ambassadors), support 
 ## 5. Plan of Execution
 The execution plan follows a detailed schedule from Monday, November 3 to Saturday, November 8, 2025, covering arrival, setup, engagement, and wrap-up. Activities are coordinated to align with team arrivals, production starts, and networking events. Key highlights include daily breakfast distributions, booth operations, media recording, lunch rotations, dinners, and evening networking.
 
-### Schedule Overview 
-
-| Time       | Mon 3 (Nov 3)            | Tue 4 (Nov 4)            | Wed 5 (Nov 5)            | Thurs 6 (Nov 6)          | Fri 7 (Nov 7)            | Sat 8 (Nov 8)            |
-|------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
-| 12:00 AM   |                          | Return to lodging        | Return to lodging        |                          | Return to lodging        | Return E                 |
-| 12:30 AM   |                          | Lights Out               | Lights Out               |                          | Lights Out               | Lights out               |
-| 6:00 AM    |                          | Breakfast/Team Envelopes are distributed | Breakfast/Team Envelopes are distributed |                          |                          |                          |
-| 6:30 AM    |                          | Media Crew check in \| organizers begin the days objectives |                          |                          |                          |                          |
-| 7:00 AM    | Team members inbound to Fort Lauderdale | Breakfast/Team Envelopes are distributed | Breakfast/Team Envelopes are distributed | Breakfast/Team Envelopes are distributed | Breakfast/Team Envelopes are distributed |                          |
-| 7:30 AM    | organizer(s) arrive early to begin | Team Dispatches to conference | Team Dispatches to conference |                          |                          |                          |
-| 8:00 AM    |                          | Take Positions \| Start Production | Take Positions \| Start Production |                          |                          |                          |
-| 8:30 AM    |                          | Breakfast Ends at 9am    | Breakfast Ends at 9am    | Breakfast Ends at 9am    |                          |                          |
-| 9:00 AM    | Organizer(s) begin work on primary objectives \| Media Team assembly | Conference Engagement | Conference Engagement | Start production \| All hands | Clean up                  |
-| 9:30 AM    | Begin production \| record for BTS & Mini Doc footage \| Team Prep & rehearsals |                          |                          |                          | Pack up                  |
-| 10:00 AM   | Team Prep and rehearsals |                          |                          | Recap                    | Checkout                 |
-| 10:30 AM   |                          |                          |                          | Feedback                 | Return to Airport        |
-| 11:00 AM   |                          |                          |                          | Close out proceedings    |                          |
-| 11:30 AM   |                          |                          |                          | Cut Production           | Fly Out                  |
-| 12:00 PM   | Lunch                    | Begin Lunch rotation     | End Lunch Rotation       | Free Time                |                          |
-| 1:00 PM    | Resume Prep              |                          |                          |                          |                          |
-| 1:30 PM    | End lunch Rotation at 2  | End lunch rotation at 2  |                          |                          |                          |
-| 3:30 PM    | Prep ends at 4pm         |                          |                          |                          |                          |
-| 4:00 PM    | Check-in To accommodations | Freetime             | Begin closeout           | Begin Closeout           |                          |
-| 4:30 PM    |                          |                          | Closeout                 | Closeout                 |
-| 5:00 PM    | Free Time                | Return to lodging        | Return to lodging        |                          |                          |
-| 5:30 PM    | Dinner                   |                          |                          |                          |                          |
-| 6:00 PM    | Dinner                   | All hands                | All hands                |                          |                          |
-| 6:30 PM    |                          | Dinner                   | Dinner                   |                          |                          |
-| 7:00 PM    | Free Time                | Role Call                |                          |                          |                          |
-| 7:30 PM    | Free Time Ends at 8pm    | Announcements            | Free time                | Free time                |                          |
-| 8:00 PM    | Role Call                | Personal time            | End house recording \| Social Crew Goes out to networking events | End house recording \| Social Crew Goes out to networking events |                          |
-| 8:30 PM    | Late Announcements       |                          |                          |                          |                          |
-| 9:00 PM    | Lights out               | Lights out               |                          |                          |                          |
-| 11:30 PM   | Cut production           | Cut Production           |                          |                          |                          |
-
-
-
-This schedule ensures efficient use of time, with buffers for contingencies.
-
 ## 6. Budget
 The budget totals $89,213.32, including a 12.7% contingency fund for overages and emergencies. Remaining funds will support future efforts. Breakdown by category:
 
