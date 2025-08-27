@@ -1,4 +1,4 @@
-# CCF Proposal: Qubic x Blockchain futurist
+# CCF Proposal: Qubic x Blockchain Futurist Conference
 
 ## 1. Summary
 This proposal outlines the plan to establish a booth at the Blockchain Futurist Conference, aimed at promoting Qubic and engaging with developers, industry leaders, and potential users. The event will provide opportunities for networking, content creation, and direct interactions to drive adoption and development on the Qubic platform. The total budget is $89,213.32, covering travel, accommodations, conference fees, staff, materials, and contingencies. Key outcomes include over 1,500 booth interactions, developer engagements, media output, and wallet signups, with a detailed execution plan and measurable KPIs to ensure accountability and success.
