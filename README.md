@@ -12,19 +12,19 @@ The proposal involves securing a Bronze-tier sponsor package, assembling a booth
 ## 4. Execution Team
 The team consists of providers, personnel, and specialized roles to ensure smooth operations. Below is a breakdown of key roles, names (where available), and duties:
 
-| Category | Role | Name | Duties |
-|----------|------|------|--------|
-| Providers | Director/Videographer | | Directs & Captures Project footage |
-| Providers | Cinematographer | | Captures Project footage |
-| Providers | Editor | | Responsible for delivering all requested media - limited role, no accommodation required |
-| Providers | Graphic Designer | | Responsible for design and print of all promotional media, signage, and decor |
+| Role | Name | Duties |
+|------|------|--------|
+| Director/Videographer | | Directs & Captures Project footage |
+| Cinematographer | | Captures Project footage |
+| Editor | | Responsible for delivering all requested media - limited role, no accommodation required |
+| Graphic Designer | | Responsible for design and print of all promotional media, signage, and decor |
 | Catering | Breakfast | | Serves Breakfast daily - limited role. No accommodations required |
 | Social Media | Specialist | | Responsible for working in step with media crew and social crew to optimize content for social media, blogs, and press |
 | Personnel | Lead | Evandon | Planning, Bookings, Logistics, transportation & support, post event detail |
-| Support | Attendant | | Tends the booth, Conducts giveaways, and shares resources and information with Conference guests |
-| Support | Scout | | Assist with booth Interactions. Will periodically walk the floor, interact with guests and send traffic back to booth |
-| Core | Host | | Deliver keynote, take interviews and engage in content creation |
-| Social | | | Gather Content, Attend all Social Events, and assist with interviews |
+| Attendant | | Tends the booth, Conducts giveaways, and shares resources and information with Conference guests |
+| Scout | | Assist with booth Interactions. Will periodically walk the floor, interact with guests and send traffic back to booth |
+| Host | | Deliver keynote, take interviews and engage in content creation |
+| Social | | Gather Content, Attend all Social Events, and assist with interviews |
 
 The team includes a mix of core personnel (e.g., speaker, ambassadors), support staff, and external providers for media and catering.
 
