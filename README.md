@@ -1,24 +1,37 @@
-# CCF Proposal: Qubic USA - Blockchain Futurist Conference 
+# Proposal for a Booth at the Blockchain Futurist Conference
 
 ## 1. Summary
-This proposal outlines a comprehensive plan for participation in the Blockchain Futurist Conference USA 2025, a premier event for blockchain, Web3, and decentralized technology enthusiasts, developers, and industry leaders. The initiative includes gold-tier sponsorship, hosting side events, media production, team deployment, and promotional activities to promote the Qubic ecosystem. The total proposed budget is $193,593.70, covering travel, conference fees, staff, materials, and a 15% contingency. Key objectives include engaging over 1,500 attendees, securing developer interest, generating high-quality media content, and achieving measurable growth in wallet signups and integrations. The event takes place on November 5-6, 2025, at the Hard Rock Guitar Hotel & Seminole Resort in Hollywood, Florida, with team activities spanning from Monday, November 3, to Saturday, November 8, 2025, including setup, engagement, and wrap-up. The conference features main stages, exhibition halls, workshops, bootcamps, roundtables, and networking events in an immersive venue like the DAER Dayclub & Nightclub.
+This proposal outlines the plan to establish a booth at the Blockchain Futurist Conference, aimed at promoting Qubic and engaging with developers, industry leaders, and potential users. The event will provide opportunities for networking, content creation, and direct interactions to drive adoption and development on the Qubic platform. The total budget is $89,213.32, covering travel, accommodations, conference fees, staff, materials, and contingencies. Key outcomes include over 1,500 booth interactions, developer engagements, media output, and wallet signups, with a detailed execution plan and measurable KPIs to ensure accountability and success.
 
 ## 2. Rationale
-The Blockchain Futurist Conference USA 2025 represents a strategic opportunity to elevate the Qubic project's visibility within the blockchain, Web3, and AI communities. As the U.S. debut of Canada's largest and longest-running Web3 event, Blockchain Futurist attracts developers, industry operators, and potential collaborators interested in innovative technologies like Qubic. Participation will enable direct engagement with at least five developers for building on Qubic, foster connections with industry leaders, and generate promotional content to boost online presence. The event's focus on immersive experiences, including VIP cabanas and multiple stages, aligns with Qubic's goals for ecosystem expansion. In a competitive landscape, such events are essential for networking, securing invitations to future meetups, and driving user adoption through giveaways and interactions. This investment, is a key opportunity for growth and partnerships in the rapidly evolving blockchain space.
+The Blockchain Futurist Conference is a premier event for blockchain innovators, attracting developers, operators, and enthusiasts from across the industry. Participating with a booth will position Qubic as a forward-thinking platform, fostering connections that can lead to new developments, partnerships, and user growth. By engaging directly with attendees, we can highlight Qubic's unique features, such as its potential for building decentralized applications. The investment will yield long-term benefits through captured media, follow-up leads, and invitations to future events, amplifying Qubic's presence beyond the conference.
 
 ## 3. Proposal Details
-The proposal encompasses sponsorship, team staffing, promotional materials, and event logistics to maximize impact at Blockchain Futurist. Key components include:
+The proposal involves securing a Bronze-tier sponsor package, assembling a booth, and hosting a happy hour mixer to maximize visibility. Activities will include giveaways of promotional items (e.g., T-shirts, magnets, stickers, buttons, bags, and pens) to attract attendees and encourage wallet signups. A professional media team will capture footage for a mini-documentary, shorts, and interviews, while staff will manage booth interactions, networking, and content optimization for social media and blogs. The event is scheduled for November 5-6, 2025, at the Hard Rock Guitar Hotel & Casino (1 Seminole Way, Davie, FL 33314) and Daer Nightclub (1 Lucky St, Hollywood, FL 33314), with accommodations at an Air BnB rental (TBD). The overall activities span November 3-8, 2025, focusing on preparation, engagement, production, and follow-up.
 
-- **Sponsorship and Conference Activities**: Gold-tier sponsor package ($35,000), AI segment panel or keynote ($35,000), side event ($25,000), and mixer ($15,000) to ensure prominent visibility and engagement opportunities, including booth presence in the exhibition hall and access to workshops or roundtables.
-- **Travel and Accommodations**: Car rentals for 2 vehicles ($600), lodging for 8 guests at an average of $655 per night ($29,800), and parking for 2 vehicles at $50 per day ($100). Venue proximity to Fort Lauderdale-Hollywood International Airport (FLL) facilitates efficient travel.
-- **Staffing**: A dedicated team including a 3-man insured media crew plus editor ($10,000), social media expert ($4,000), core eco team speaker ($1,200), 2 ambassadors for booth logistics ($2,400), and lead organizer ($2,000).
-- **Materials and Design**: Graphic designer for event media ($2,000), promotional items such as 200 t-shirts ($1,400), 1,000 stickers ($400), 1,000 magnets ($400), 1,000 buttons ($400), 1,000 bags ($2,500), and 1,000 pens ($750). Team identity items include 24 polo shirts ($288) and 8 hats ($120). Decor is TBD ($0).
-- **Contingency**: 15% buffer ($25,235.70) for unforeseen expenses.
+## 4. Execution Team
+The team consists of providers, personnel, and specialized roles to ensure smooth operations. Below is a breakdown of key roles, names (where available), and duties:
 
-These elements ensure a professional presence, high-quality content capture, and effective attendee outreach, leveraging the event's networking features like VIP lounges.
+| Category | Role | Name | Duties |
+|----------|------|------|--------|
+| Providers | Director/Videographer | | Directs & Captures Project footage |
+| Providers | Cinematographer | | Captures Project footage |
+| Providers | Editor | | Responsible for delivering all requested media - limited role, no accommodation required |
+| Providers | Graphic Designer | | Responsible for design and print of all promotional media, signage, and decor |
+| Catering | Breakfast | | Serves Breakfast daily - limited role. No accommodations required |
+| Social Media | Specialist | | Responsible for working in step with media crew and social crew to optimize content for social media, blogs, and press |
+| Personnel | Lead | Evandon J. | Planning, Bookings, Logistics, transportation & support, post event detail |
+| Support | Attendant | | Tends the booth, Conducts giveaways, and shares resources and information with Conference guests |
+| Support | Scout | | Assist with booth Interactions. Will periodically walk the floor, interact with guests and send traffic back to booth |
+| Core | Host | | Deliver keynote, take interviews and engage in content creation |
+| Social | | | Gather Content, Attend all Social Events, and assist with interviews |
 
-## 4. Plan of Execution
-The execution plan follows a detailed daily schedule from Monday, November 3, to Saturday, November 8, 2025, focusing on preparation, engagement, production, and wrap-up. Activities are coordinated to optimize team efficiency, media capture, and networking, aligning with the main conference days (November 5-6). Mornings are for setup and production, afternoons for engagement and meals, evenings for networking and rest.
+The team includes a mix of core personnel (e.g., speaker, ambassadors), support staff, and external providers for media and catering.
+
+## 5. Plan of Execution
+The execution plan follows a detailed schedule from Monday, November 3 to Saturday, November 8, 2025, covering arrival, setup, engagement, and wrap-up. Activities are coordinated to align with team arrivals, production starts, and networking events. Key highlights include daily breakfast distributions, booth operations, media recording, lunch rotations, dinners, and evening networking.
+
+### Schedule Overview 
 
 | Time       | Mon 3 (Nov 3)            | Tue 4 (Nov 4)            | Wed 5 (Nov 5)            | Thurs 6 (Nov 6)          | Fri 7 (Nov 7)            | Sat 8 (Nov 8)            |
 |------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
@@ -53,56 +66,64 @@ The execution plan follows a detailed daily schedule from Monday, November 3, to
 | 9:00 PM    | Lights out               | Lights out               |                          |                          |                          |
 | 11:30 PM   | Cut production           | Cut Production           |                          |                          |                          |
 
-## 5. Budget
-The budget is structured by categories, with itemized costs for transparency. The grand total includes a 15% contingency for flexibility.
 
-| Item           | Count | Description                          | Price    | Fees | Total      | Categories | Subcategories |
-|----------------|-------|--------------------------------------|----------|------|------------|------------|---------------|
-| **Travel**     |       |                                      |          |      |            |            |               |
-| Car Rental     | 2     |                                      | $300.00  |      | $600.00    | Travel     | Transportation|
-| Lodging        | 8     | $655 avg per night per guest         | $3,725.00|      | $29,800.00 | Travel     | Accommodations|
-|                |       |                                      |          |      | $0.00      | Travel     | Miscellaneous |
-| **Conference**|       |                                      |          |      |            |            |               |
-| Sponsor package| 1     | Gold Tier                            | $35,000.00|      | $35,000.00 | Conference | General       |
-| AI Segment     | 1     | Panel or Keynote                     | $35,000.00|      | $35,000.00 | Conference | General       |
-| Event          | 1     | Side Event                           | $25,000.00|      | $25,000.00 | Conference | General       |
-| Mixer          | 1     | Mixer                                | $15,000.00|      | $15,000.00 | Conference | General       |
-| Parking        | 2     | 25 per day per vehicle = $50         | $50.00   |      | $100.00    | Conference | General       |
-| **Staff**      |       |                                      |          |      |            |            |               |
-| Insured Crew   | 1     | 3 man team + Editor                  | $10,000.00|      | $10,000.00 | Staff      | Media         |
-| Social Media Expert | 1     | Social media Expert responsible for Planning and executing all social media engagement | $4,000.00 |      | $4,000.00  | Staff      | Media         |
-| Speaker        | 1     | Core Eco Team for speaking engagements | $1,200.00 |      | $1,200.00  | Staff      | Core          |
-| Ambassador     | 2     | Handles booth Logistics              | $1,200.00 |      | $2,400.00  | Staff      | Support       |
-| Lead           | 1     | Responsible for organizing Event     | $2,000.00 |      | $2,000.00  | Staff      | Organizer     |
-| **Materials**  |       |                                      |          |      |            |            |               |
-| Graphic Designer | 1     | Create designs for all media in use at event including booth | $2,000.00 |      | $2,000.00  | Materials  | Design        |
-| Teeshirts      | 200   | Assorted sized tees                  | $7.00    |      | $1,400.00  | Materials  | Promotional   |
-| Stickers       | 1000  | 4x2                                  | $0.40    |      | $400.00    | Materials  | Promotional   |
-| Magnets        | 1000  | 5x2                                  | $0.40    |      | $400.00    | Materials  | Promotional   |
-| Buttons        | 1000  | 1”                                   | $0.40    |      | $400.00    | Materials  | Promotional   |
-| Bags           | 1000  | 12 x 10 canvas bag                   | $2.50    |      | $2,500.00  | Materials  | Promotional   |
-| Pens           | 1000  | Ballpoint                            | $0.75    |      | $750.00    | Materials  | Promotional   |
-| TBD            |       | TBD                                  |          |      | $0.00      | Materials  | Decor         |
-| Polo Shirts    | 24    | Polos                                | $12.00   |      | $288.00    | Materials  | Team Identity |
-| Hats           | 8     | Golf Hats                            | $15.00   |      | $120.00    | Materials  | Team Identity |
-| **Contingency**|       |                                      |          |      |            |            |               |
-| 15%            | 1     |                                      |          |      | $25,235.70 | Contingency| General       |
-| **Grand Total**|       |                                      | $134,513.45 | $0.00 | **$193,593.70** |            |               |
 
-## 6. Goals & KPIs
-Success will be measured against the following goals and KPIs, ensuring accountability and alignment with Qubic's growth objectives. Placeholders have been filled with practical tracking methods based on best practices, such as using lead capture tools and targeted engagement strategies.
+This schedule ensures efficient use of time, with buffers for contingencies.
 
-| Goal                     | Description                                                                 | Target                          | KPI                                                                 |
-|--------------------------|-----------------------------------------------------------------------------|---------------------------------|---------------------------------------------------------------------|
-| Booth interactions       | Engage with conference attendees                                            | 1.5k+ interactions              | Tracked by badge scans, QR code check-ins, and giveaway entry counts |
-| Stage Time               | Deliver a keynote speech or a panel                                         | Gather footage of talk to use for content | Recorded Media to apply towards online presence and future campaigns |
-| Developers               | Engage with at least 5 devs who are interested in building on Qubic         | Bring the devs to us with engaging booth demos, technical workshops, and targeted networking at dev-focused sessions | Written followup within 3 business days following the conference    |
-| Other Interest           | Connect with Industry Leaders and Operators                                 | Use the mixer and side event to connect with high value objectives. | Written followup within 3 business days following the conference    |
-| Printed or Written Invites to Future events | Achieve invites to events, meetups, or conferences.                         | Look out for flyer invites and apply high level networking. Apply events to social crew’s schedule. | The social schedule will have documented entries of all past and future events derived by this effort |
-| Media Output             | Deliver high quality photos and videos of the event.                        | Media Team will execute a documentary styled recording. As well as capture interviews and event footage | 100+ photos (including photos from videos), 1 mini-documentary, several shorts and trailers, 1 fully edited Keynote or panel, a copy of all footage for future usage. |
-| Wallet Signups & integrations | Garner 100+ new wallet registration signups                                 | Use Giveaway as an attraction for guests to signup | Giveaway signups and giveaway wallet transactions                   |
-| Promotional outreach     | Giveaway Promotional Items. Give away as much as 100% off all promotional items | Empty Booth, no boxes to carry home. | Tracked by zero remaining inventory at event end                    |
-| Final report             | Written report documenting the outcome                                      | Draft a report detailing all KPI results and Other findings. | Final report made available within 5 business days of conference.   |
+## 6. Budget
+The budget totals $89,213.32, including a 12.7% contingency fund for overages and emergencies. Remaining funds will support future efforts. Breakdown by category:
 
-## 7. Conclusion
-This CCF proposal for the Blockchain Futurist Conference USA 2025 positions Qubic for significant advancement through targeted engagement, content creation, and networking. With a structured plan, detailed budget, and clear KPIs, the initiative promises high ROI in terms of developer acquisition, community growth, and brand elevation. Approval and funding will enable execution, driving long-term value for the Qubic ecosystem. We recommend proceeding to capitalize on this opportunity.
+| Item | Count | Description | Price | Fees | Fee Description | Total |
+|------|-------|-------------|-------|------|-----------------|-------|
+| **Travel** | | | | | | |
+| Airfare - Roundtrip flights | 3 | Roundtrip - Domestic - to Miami International Airport | $600.00 | $160.00 | Check bag / airport ride | $2,280.00 |
+| Airfare - Roundtrip flights | 2 | Roundtrip - International - to Miami International Airport | $1,000.00 | $200.00 | Check bag / airport ride / visa | $2,400.00 |
+| Transportation - Car Rental | 2 | Tahoe or Equivalent \| fully Insured \| unlimited mileage | $600.00 | $400.00 | Insurance & Refuel | $2,000.00 |
+| Accommodations - Lodging | 1 | Air BNB \| sleeps 5 \| 5day rental | $2,800.00 | $200.00 | Service fees | $3,000.00 |
+| Accommodations - Breakfast | 5 | Breakfast Catering for 5 days | $200.00 | $20.00 | Taxes | $1,100.00 |
+| **Conference** | | | | | | |
+| General - Sponsor package | 1 | Bronze tier | $10,000.00 | | | $10,000.00 |
+| General - Booth | 1 | Booth Assembly | $10,000.00 | | | $10,000.00 |
+| General - Mixer | 1 | Happy hour mixer | $15,000.00 | | | $15,000.00 |
+| General - Parking | 2 | Unexpected Parking fees | $100.00 | | | $200.00 |
+| **Staff** | | | | | | |
+| Media - Insured Audio Video Crew | 1 | Local. Insured. Editor included. 2 man team \| handle their own accommodations | $15,000.00 | | | $15,000.00 |
+| Media - Social Media Expert | 1 | Works in step with media to create optimized content for social media and blogs | $3,600.00 | | | $3,600.00 |
+| General - Meals & Incidentals | 4 | Per diem for each non media crew 80 per day for 5 days | $400.00 | | | $1,600.00 |
+| Core - Speaker | 1 | Qualified Team member responsible for speaking events and networking | $1,200.00 | | | $1,200.00 |
+| Support - Ambassador | 2 | Responsible for event support & Networking | $1,000.00 | | | $2,000.00 |
+| Organizer - Lead | 1 | Responsible for overseeing production and logistics | $2,000.00 | | | $2,000.00 |
+| **Materials** | | | | | | |
+| Design - Graphic Designer | 1 | Design all products for media and decor | $2,200.00 | | | $2,200.00 |
+| Promotional - Teeshirts | 120 | 1 color ink \| premium fitted tees | $12.72 | $2.03 | Shipping | $1,770.00 |
+| Promotional - Magnets | 1000 | 4x2” die cut magnets | $0.45 | $0.04 | Shipping | $490.00 |
+| Promotional - Stickers | 1000 | 4x2" die cut stickers | $0.28 | $0.03 | Shipping | $310.00 |
+| Promotional - Buttons | 1000 | 1” button pins \| assorted colors | $0.22 | $0.04 | Shipping | $260.00 |
+| Promotional - Bags | 500 | Canvas Tote Bags | $3.50 | $0.10 | Shipping | $1,800.00 |
+| Promotional - Pens | 1000 | Retractable pens - pensxpress | $0.39 | $0.06 | Shipping | $450.00 |
+| Decor - TBD | | | $0.00 | | | $0.00 |
+| Team Identity - Polo Shirts | | | $0.00 | | | $0.00 |
+| Team Identity - Hats | | | $0.00 | | | $0.00 |
+| **Miscellaneous** | | | | | | |
+| General - Exchange fees | 1 | Buffer for Crypto & fiat transfers | $500.00 | | | $500.00 |
+| **Contingency** | | | | | | |
+| General | | 12.7% Buffer fund for all overages and emergencies - The remaining money will go into a fund to assist with future efforts | | | | $10,053.32 |
+| **Grand Total** | | | | | | $89,213.32 |
+
+## 7. Goals and KPIs
+The following goals and KPIs will measure the success of the initiative:
+
+| Goal | Description | Target | KPI |
+|------|-------------|--------|-----|
+| Booth interactions | Engage with conference attendees | 1.5k+ interactions | Tracked by … Maybe, Giveaway metrics? Figure this out.. |
+| Stage Time | Deliver a keynote speech or a panel | Gather footage of talk to use for content | Recorded Media to apply towards online presence and future campaigns |
+| Developers | Engage with at least 5 devs who are interested in building on Qubic | Bring the devs to us with … Help me out here | Written followup within 3 Business days following the conference |
+| Other Interest | Connect with Industry Leaders and Operators | Use the mixer and side event to connect with high value objectives. | Written followup within 3 business days following the conference |
+| Printed or Written Invites to Future events | Achieve invites to events, meetups, or conferences. | Look out for flyer invites and apply high level networking. Apply events to social crew’s schedule. | The social schedule will have documented entries of all past and future events derived by this effort |
+| Media Output | Deliver high quality photos and videos of the event. | Media Team will execute a documentary styled recording. As well as capture interviews and event footage | 100+ photos (including photos from videos), 1 mini-documentary, several shorts and trailers, 1 fully edited Keynote or panel, a copy of all footage for future usage. |
+| Wallet Signups & integrations | Garner 100+ new wallet registration signups | Use Giveaway as an attraction for guests to signup | Giveaway signups and giveaway wallet transactions |
+| Promotional outreach | Giveaway Promotional Items. Give away as much as 100% off all promotional items | Empty Booth, no boxes to carry home. | Final report |
+| Final report | Written report documenting the outcome | Draft a report detailing all KPI results and Other findings. | Final report made available within 5 business days of conference. |
+
+## 8. Conclusion
+This booth at the Blockchain Futurist Conference represents a strategic opportunity to elevate Qubic's profile, secure valuable connections, and generate content that supports ongoing growth. With a comprehensive team, detailed plan, and clear KPIs, this initiative promises high returns on investment through increased adoption and community engagement.
