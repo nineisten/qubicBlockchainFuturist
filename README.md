@@ -20,7 +20,7 @@ The team consists of providers, personnel, and specialized roles to ensure smoot
 | Providers | Graphic Designer | | Responsible for design and print of all promotional media, signage, and decor |
 | Catering | Breakfast | | Serves Breakfast daily - limited role. No accommodations required |
 | Social Media | Specialist | | Responsible for working in step with media crew and social crew to optimize content for social media, blogs, and press |
-| Personnel | Lead | Evandon J. | Planning, Bookings, Logistics, transportation & support, post event detail |
+| Personnel | Lead | Evandon | Planning, Bookings, Logistics, transportation & support, post event detail |
 | Support | Attendant | | Tends the booth, Conducts giveaways, and shares resources and information with Conference guests |
 | Support | Scout | | Assist with booth Interactions. Will periodically walk the floor, interact with guests and send traffic back to booth |
 | Core | Host | | Deliver keynote, take interviews and engage in content creation |
