@@ -1,5 +1,18 @@
 # CCF Proposal: Qubic x Blockchain Futurist Conference
 
+## Details
+- Event: Qubic @ RareEvo Conference, Las Vegas, August 6-10, 2025 (3 weeks from July 16, 2025)
+- Organizer: Evandon
+- Funding Requested: $89,213 or 38.5 billion Qubic @ $2320/bQubic
+
+## Available Options
+Fund Qubic's Sponsorship & Production @ the Blockchain futurist conference on Nov 5-6, Miami, Fla.
+
+Option 0: no, don’t approve
+Option 1: yes, approve.
+
+In the event of a price drop leading to underfunding (below the specified contingency), funds will be refunded to the CCF, less a 1% fee for organizer expenses. If the price increases, resulting in a surplus, the additional funds will be allocated to future outreach efforts and community incentives.
+
 ## 1. Summary
 This proposal outlines the plan to establish a booth at the Blockchain Futurist Conference, aimed at promoting Qubic and engaging with developers, industry leaders, and potential users. The event will provide opportunities for networking, content creation, and direct interactions to drive adoption and development on the Qubic platform. The total budget is $89,213.32, covering travel, accommodations, conference fees, staff, materials, and contingencies. Key outcomes include over 1,500 booth interactions, developer engagements, media output, and wallet signups, with a detailed execution plan and measurable KPIs to ensure accountability and success.
 
@@ -7,7 +20,7 @@ This proposal outlines the plan to establish a booth at the Blockchain Futurist 
 The Blockchain Futurist Conference is a premier event for blockchain innovators, attracting developers, operators, and enthusiasts from across the industry. Participating with a booth will position Qubic as a forward-thinking platform, fostering connections that can lead to new developments, partnerships, and user growth. By engaging directly with attendees, we can highlight Qubic's unique features, such as its potential for building decentralized applications. The investment will yield long-term benefits through captured media, follow-up leads, and invitations to future events, amplifying Qubic's presence beyond the conference.
 
 ## 3. Proposal Details
-The proposal involves securing a Bronze-tier sponsor package, assembling a booth, and hosting a happy hour mixer to maximize visibility. Activities will include giveaways of promotional items (e.g., T-shirts, magnets, stickers, buttons, bags, and pens) to attract attendees and encourage wallet signups. A professional media team will capture footage for a mini-documentary, shorts, and interviews, while staff will manage booth interactions, networking, and content optimization for social media and blogs. The event is scheduled for November 5-6, 2025, at the Hard Rock Guitar Hotel & Casino (1 Seminole Way, Davie, FL 33314) and Daer Nightclub (1 Lucky St, Hollywood, FL 33314), with accommodations at an Air BnB rental (TBD). The overall activities span November 3-8, 2025, focusing on preparation, engagement, production, and follow-up.
+The proposal involves securing a Bronze-tier sponsor package, assembling a booth, and hosting a happy hour mixer to maximize visibility. Activities will include giveaways of promotional items (e.g., T-shirts, magnets, stickers, buttons, bags, and pens) to attract attendees and encourage wallet signups. A professional media team will capture footage for a mini-documentary, shorts, and interviews, while staff will manage booth interactions, networking, and content optimization for social media and blogs. The event is scheduled for November 5-6, 2025, at the Hard Rock Guitar Hotel & Casino and Daer Nightclub, with accommodations at an Air BnB rental (TBD). The overall activities span November 3-8, 2025, focusing on preparation, engagement, production, and follow-up.
 
 ## 4. Execution Team
 The team consists of providers, personnel, and specialized roles to ensure smooth operations. Below is a breakdown of key roles, names (where available), and duties:
