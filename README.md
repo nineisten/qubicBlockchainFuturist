@@ -8,8 +8,8 @@
 ## Available Options
 Fund Qubic's Sponsorship & Production @ the Blockchain futurist conference on Nov 5-6, Miami, Fla.
 
-Option 0: no, don’t approve
-Option 1: yes, approve.
+- Option 0: no, don’t approve
+- Option 1: yes, approve.
 
 In the event of a price drop leading to underfunding (below the specified contingency), funds will be refunded to the CCF, less a 1% fee for organizer expenses. If the price increases, resulting in a surplus, the additional funds will be allocated to future outreach efforts and community incentives.
 
