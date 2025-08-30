@@ -21,8 +21,8 @@ The team consists of providers, personnel, and specialized roles to ensure smoot
 | Caterer | TBD | Serves Breakfast daily - limited role. No accommodations required |
 | Social Media Specialist | TBD | Responsible for working in step with media crew and social crew to optimize content for social media, blogs, and press |
 |  Lead | Evandon | Planning, Bookings, Logistics, transportation & support, post event detail |
-| Attendant | TBD | Tends the booth, Conducts giveaways, and shares resources and information with Conference guests |
-| Scout | Ronnie | Assist with booth Interactions. Will periodically walk the floor, interact with guests and send traffic back to booth |
+| Attendant | Ronnie | Tends the booth, Conducts giveaways, and shares resources and information with Conference guests |
+| Scout | TBD | Assist with booth Interactions. Will periodically walk the floor, interact with guests and send traffic back to booth |
 | Host | Retrodrive | Deliver keynote, take interviews and engage in content creation |
 | Social | DeFiMomma | Gather Content, Attend all Social Events, and assist with interviews |
 
