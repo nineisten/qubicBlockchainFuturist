@@ -27,9 +27,9 @@ The team consists of providers, personnel, and specialized roles to ensure smoot
 
 | Role | Name | Duties |
 |------|------|--------|
-| Director/Videographer | MediaMinds | Directs & Captures Project footage |
-| Cinematographer | MediaMinds | Captures Project footage |
-| Editor | MediaMinds | Responsible for delivering all requested media - limited role, no accommodation required |
+| Director/Videographer | MotionMinds | Directs & Captures Project footage |
+| Cinematographer | MotionMinds | Captures Project footage |
+| Editor | MotionMinds | Responsible for delivering all requested media - limited role, no accommodation required |
 | Graphic Designer | TBD | Responsible for design and print of all promotional media, signage, and decor. limited role, no accomodation required |
 | Caterer | TBD | Serves Breakfast daily - limited role. No accommodations required |
 | Social Media Specialist | TBD | Responsible for working in step with media crew and social crew to optimize content for social media, blogs, and press |
