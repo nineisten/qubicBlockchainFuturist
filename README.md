@@ -3,7 +3,7 @@
 ## Details
 - Event: Qubic @ RareEvo Conference, Las Vegas, August 6-10, 2025 (3 weeks from July 16, 2025)
 - Organizer: Evandon
-- Funding Requested: $89,213 or 38.5 billion Qubic @ $2320/bQubic
+- Funding Requested: $89,213 or 38.5 Billion Qubic @ $2320/bQubic
 
 ## Available Options
 Fund Qubic's Sponsorship & Production @ the Blockchain futurist conference on Nov 5-6, Miami, Fla.
