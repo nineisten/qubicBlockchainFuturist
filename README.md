@@ -24,9 +24,11 @@ The team consists of providers, personnel, and specialized roles to ensure smoot
 | Attendant | Ronnie | Tends the booth, Conducts giveaways, and shares resources and information with Conference guests |
 | Scout | TBD | Assist with booth Interactions. Will periodically walk the floor, interact with guests and send traffic back to booth |
 | Host | Retrodrive | Deliver keynote, take interviews and engage in content creation |
-| Social | DeFiMomma | Gather Content, Attend all Social Events, and assist with interviews |
+| Social Engagement | DeFiMomma | Gather Content, Attend all Social Events, and assist with interviews |
 
 The team includes a mix of core personnel (e.g., speaker, ambassadors), support staff, and external providers for media and catering.
+
+
 
 ## 5. Plan of Execution
 The execution plan follows a detailed schedule from Monday, November 3 to Saturday, November 8, 2025, covering arrival, setup, engagement, and wrap-up. Activities are coordinated to align with team arrivals, production starts, and networking events. Key highlights include daily breakfast distributions, booth operations, media recording, lunch rotations, dinners, and evening networking.
