@@ -41,7 +41,7 @@ The team consists of providers, personnel, and specialized roles to ensure smoot
 
 The team includes a mix of core personnel (e.g., speaker, ambassadors), support staff, and external providers for media and catering.
 
-For more on the prospective media team visit [Motion Minds](motionminds.com)
+For more on the prospective media team visit [Motion Minds](https://motionminds.com)
 
 
 
