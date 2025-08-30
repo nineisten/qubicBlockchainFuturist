@@ -14,17 +14,17 @@ The team consists of providers, personnel, and specialized roles to ensure smoot
 
 | Role | Name | Duties |
 |------|------|--------|
-| Director/Videographer | | Directs & Captures Project footage |
-| Cinematographer | | Captures Project footage |
-| Editor | | Responsible for delivering all requested media - limited role, no accommodation required |
-| Graphic Designer | | Responsible for design and print of all promotional media, signage, and decor |
-| Catering | Breakfast | | Serves Breakfast daily - limited role. No accommodations required |
-| Social Media | Specialist | | Responsible for working in step with media crew and social crew to optimize content for social media, blogs, and press |
-| Personnel | Lead | Evandon | Planning, Bookings, Logistics, transportation & support, post event detail |
-| Attendant | | Tends the booth, Conducts giveaways, and shares resources and information with Conference guests |
-| Scout | | Assist with booth Interactions. Will periodically walk the floor, interact with guests and send traffic back to booth |
-| Host | | Deliver keynote, take interviews and engage in content creation |
-| Social | | Gather Content, Attend all Social Events, and assist with interviews |
+| Director/Videographer | MediaMinds | Directs & Captures Project footage |
+| Cinematographer | MediaMinds | Captures Project footage |
+| Editor | MediaMinds | Responsible for delivering all requested media - limited role, no accommodation required |
+| Graphic Designer | TBD | Responsible for design and print of all promotional media, signage, and decor. limited role, no accomodation required |
+| Caterer | TBD | Serves Breakfast daily - limited role. No accommodations required |
+| Social Media Specialist | TBD | Responsible for working in step with media crew and social crew to optimize content for social media, blogs, and press |
+|  Lead | Evandon | Planning, Bookings, Logistics, transportation & support, post event detail |
+| Attendant | TBD | Tends the booth, Conducts giveaways, and shares resources and information with Conference guests |
+| Scout | Ronnie | Assist with booth Interactions. Will periodically walk the floor, interact with guests and send traffic back to booth |
+| Host | Retrodrive | Deliver keynote, take interviews and engage in content creation |
+| Social | DeFiMomma | Gather Content, Attend all Social Events, and assist with interviews |
 
 The team includes a mix of core personnel (e.g., speaker, ambassadors), support staff, and external providers for media and catering.
 
@@ -32,7 +32,7 @@ The team includes a mix of core personnel (e.g., speaker, ambassadors), support 
 The execution plan follows a detailed schedule from Monday, November 3 to Saturday, November 8, 2025, covering arrival, setup, engagement, and wrap-up. Activities are coordinated to align with team arrivals, production starts, and networking events. Key highlights include daily breakfast distributions, booth operations, media recording, lunch rotations, dinners, and evening networking.
 
 ## 6. Budget
-The budget totals $89,213.32, including a 12.7% contingency fund for overages and emergencies. Remaining funds will support future efforts. Breakdown by category:
+The budget totals $89,213.32, including a 12.7% contingency fund for overages and emergencies. Remaining funds will support future community efforts. Breakdown by category:
 
 | Item | Count | Description | Price | Fees | Fee Description | Total |
 |------|-------|-------------|-------|------|-----------------|-------|
