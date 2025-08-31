@@ -9,9 +9,9 @@
 Fund Qubic's Sponsorship & Production @ the Blockchain futurist conference on Nov 5-6, Miami, Fla.
 
 - Option 0: no, don’t approve
-- Option 1: yes, approve.
+- Option 1: yes, approve funding of 38.5 Billion Qubic @ $2320/bQubic.
 
-Note: In the event of a price drop leading to underfunding (below the specified contingency), funds will be refunded to the CCF, less a 1% fee for organizer expenses. If the price increases, resulting in a surplus, the additional funds will be allocated to future outreach efforts and community incentives.
+Note: In the event of a price drop leading to underfunding (below the specified contingency), funds will be returned to the CCF. If the price increases, resulting in a surplus, the additional funds will be allocated to future outreach efforts and community incentives.
 
 ## 1. Summary
 This proposal outlines the plan to establish a booth at the Blockchain Futurist Conference, aimed at promoting Qubic and engaging with developers, industry leaders, and potential users. The event will provide opportunities for networking, content creation, and direct interactions to drive adoption and development on the Qubic platform. The total budget is $89,213.32, covering travel, accommodations, conference fees, staff, materials, and contingencies. Key outcomes include over 1,500 booth interactions, developer engagements, media output, and wallet signups, with a detailed execution plan and measurable KPIs to ensure accountability and success.
@@ -41,7 +41,7 @@ The team consists of providers, personnel, and specialized roles to ensure smoot
 
 The team includes a mix of core personnel (e.g., speaker, ambassadors), support staff, and external providers for media and catering.
 
-For more on the prospective media team visit [Motion Minds](https://motionminds.com)
+For more on the media team visit [Motion Minds](https://motionminds.com)
 
 
 
@@ -96,7 +96,7 @@ The following goals and KPIs will measure the success of the initiative:
 | Booth interactions | Engage with conference attendees | 1.5k+ interactions | Tracked by … Maybe, Giveaway metrics? Figure this out.. |
 | Stage Time | Deliver a keynote speech or a panel | Gather footage of talk to use for content | Recorded Media to apply towards online presence and future campaigns |
 | Developers | Engage with at least 5 devs who are interested in building on Qubic | Bring the devs to us with … Help me out here | Written followup within 3 Business days following the conference |
-| Other Interest | Connect with Industry Leaders and Operators | Use the mixer and side event to connect with high value objectives. | Written followup within 3 business days following the conference |
+| Other Interest | Connect with Industry Leaders and Operators | Use the mixer to connect with high value objectives. | Written followup within 3 business days following the conference |
 | Printed or Written Invites to Future events | Achieve invites to events, meetups, or conferences. | Look out for flyer invites and apply high level networking. Apply events to social crew’s schedule. | The social schedule will have documented entries of all past and future events derived by this effort |
 | Media Output | Deliver high quality photos and videos of the event. | Media Team will execute a documentary styled recording. As well as capture interviews and event footage | 100+ photos (including photos from videos), 1 mini-documentary, several shorts and trailers, 1 fully edited Keynote or panel, a copy of all footage for future usage. |
 | Wallet Signups & integrations | Garner 100+ new wallet registration signups | Use Giveaway as an attraction for guests to signup | Giveaway signups and giveaway wallet transactions |
