@@ -4,7 +4,7 @@
 - Event: Qubic @ Blockchain Futurist Conference, Miami, Florida, November 5th & 6th, 2025
 - Organizer: Qubic USA
 - Funding Requested: $53,000 or 34.1 Billion Qubic @ $1561/bQubic
-
+- wallet: HKAQHTEHMHZUPCTKTOEOMJNIVCQCCWAHWBAZBHXGHCTLGBIWIHOQFGAAFBVC
 ## Available Options
 Fund Qubic's Sponsorship & Production @ the Blockchain futurist conference on Nov 5-6, Miami, Fla.
 
