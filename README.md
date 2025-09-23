@@ -1,107 +1,70 @@
-# CCF Proposal: Qubic x Blockchain Futurist Conference
+# CCF Proposal: Qubic USA x Blockchain Futurist Conference (Miami)
 
 ## Details
 - Event: Qubic @ RareEvo Conference, Las Vegas, August 6-10, 2025 (3 weeks from July 16, 2025)
 - Organizer: Evandon
-- Funding Requested: $89,213 or 38.5 Billion Qubic @ $2320/bQubic
+- Funding Requested: $53,000 or 34.1 Billion Qubic @ $1561/bQubic
 
 ## Available Options
 Fund Qubic's Sponsorship & Production @ the Blockchain futurist conference on Nov 5-6, Miami, Fla.
 
 - Option 0: no, don’t approve
-- Option 1: yes, approve funding of 38.5 Billion Qubic @ $2320/bQubic.
+- Option 1: yes, approve funding of 34.1 Billion Qubic @ $1561/bQubic.
 
-Note: In the event of a price drop leading to underfunding (below the specified contingency), funds will be returned to the CCF. If the price increases, resulting in a surplus, the additional funds will be allocated to future outreach efforts and community incentives.
+Note: In the event of a price drop leading to underfunding (below the specified contingency), funds will be returned to the CCF. If the price increases, resulting in a surplus, the additional Qubic reserves will be returned to the CCF.
 
 ## 1. Summary
-This proposal outlines the plan to establish a booth at the Blockchain Futurist Conference, aimed at promoting Qubic and engaging with developers, industry leaders, and potential users. The event will provide opportunities for networking, content creation, and direct interactions to drive adoption and development on the Qubic platform. The total budget is $89,213.32, covering travel, accommodations, conference fees, staff, materials, and contingencies. Key outcomes include over 1,500 booth interactions, developer engagements, media output, and wallet signups, with a detailed execution plan and measurable KPIs to ensure accountability and success.
+This proposal seeks funding from the Qubic Community Contribution Fund (CCF) to secure a booth and associated promotional activities for Qubic at the Blockchain Futurist Conference USA, scheduled for November 5-6, 2025, in Miami, Florida. As Canada's longest-running Web3 event expands to the U.S. for its debut in Miami, the conference is expected to attract thousands of attendees, building on past metrics such as over 6,000 participants at the 2022 Toronto edition and consistent growth to record-breaking attendance in 2023 (over 2,500+ in earlier years, with recent events drawing even larger crowds). This high-profile gathering of blockchain enthusiasts, developers, investors, and industry leaders provides an ideal platform to showcase Qubic's innovative Layer-1 blockchain, which integrates AI and useful Proof-of-Work (uPoW) for real-world applications like decentralized computing and AI training. Participation will enhance Qubic's visibility, foster partnerships, and drive community growth in a key Web3 hub.
 
 ## 2. Rationale
-The Blockchain Futurist Conference is a premier event for blockchain innovators, attracting developers, operators, and enthusiasts from across the industry. Participating with a booth will position Qubic as a forward-thinking platform, fostering connections that can lead to new developments, partnerships, and user growth. By engaging directly with attendees, we can highlight Qubic's unique features, such as its potential for building decentralized applications. The investment will yield long-term benefits through captured media, follow-up leads, and invitations to future events, amplifying Qubic's presence beyond the conference.
+The Blockchain Futurist Conference is a premier event in the Web3 space, known for its immersive experiences, high-energy activations, and focus on emerging technologies like blockchain, AI, and cryptocurrency. Qubic, as a decentralized network emphasizing quorum-based computation and experimental tech, aligns perfectly with the conference's themes. By establishing a presence in Miami—a burgeoning crypto hotspot—we can tap into a diverse audience beyond our existing community, including U.S.-based developers, investors, and enterprises interested in AI-blockchain synergies. Past events have demonstrated strong value through networking, media exposure, and lead generation, justifying this investment to accelerate Qubic's adoption and ecosystem expansion.
 
 ## 3. Proposal Details
-The proposal involves securing a Bronze-tier sponsor package, assembling a booth, and hosting a happy hour mixer to maximize visibility. Activities will include giveaways of promotional items (e.g., T-shirts, magnets, stickers, buttons, bags, and pens) to attract attendees and encourage wallet signups. A professional media team will capture footage for a mini-documentary, shorts, and interviews, while staff will manage booth interactions, networking, and content optimization for social media and blogs. The event is scheduled for November 5-6, 2025, at the Hard Rock Guitar Hotel & Casino and Daer Nightclub, with accommodations at an Air BnB rental (TBD). The overall activities span November 3-8, 2025, focusing on preparation, engagement, production, and follow-up.
+The proposal focuses on securing a Copper-tier booth package at the conference, including setup and branding elements to create an engaging Qubic exhibit. Key components include:
+- **Booth and Setup**: A 24” x 24” counter with a 4’ branded back wall, designed to highlight Qubic's fastest blockchain (15.5M TPS) and AI integration features through interactive demos and visuals.
+- **Sponsorship Elements**: Custom lanyards featuring Qubic branding to increase visibility among all attendees.
+- **Promotional Materials**: A mix of stickers, t-shirts, magnets, bags, and flyers to distribute at the booth, educating visitors on Qubic's uPoW model and inviting them to join the network.
+- **Giveaway Campaign**: A 150 million Qubic token giveaway to motivate wallet and email signups, incentivizing attendees to engage with the Qubic ecosystem through on-site registration.
+- **On-Site Support**: A local videographer & editor to capture footage and produce post-event content, such as highlights, interviews, and promotional videos shared on Qubic's social channels.
+The booth will serve as a hub for live demonstrations, Q&A sessions, giveaways, and networking, positioning Qubic as a leader in decentralized computing.
 
 ## 4. Execution Team
-The team consists of providers, personnel, and specialized roles to ensure smooth operations. Below is a breakdown of key roles, names (where available), and duties:
-
-| Role | Name | Duties |
-|------|------|--------|
-| Director/Videographer | MotionMinds | Directs & Captures Project footage |
-| Cinematographer | MotionMinds | Captures Project footage |
-| Editor | MotionMinds | Responsible for delivering all requested media - limited role, no accommodation required |
-| Graphic Designer | TBD | Responsible for design and print of all promotional media, signage, and decor. limited role, no accomodation required |
-| Caterer | TBD | Serves Breakfast daily - limited role. No accommodations required |
-| Social Media Specialist | TBD | Responsible for working in step with media crew and social crew to optimize content for social media, blogs, and press |
-|  Lead | Evandon | Planning, Bookings, Logistics, transportation & support, post event detail |
-| Attendant | Ronnie | Tends the booth, Conducts giveaways, and shares resources and information with Conference guests |
-| Scout | TBD | Assist with booth Interactions. Will periodically walk the floor, interact with guests and send traffic back to booth |
-| Host | Retrodrive | Deliver keynote, take interviews and engage in content creation |
-| Social Engagement | DeFiMomma | Gather Content, Attend all Social Events, and assist with interviews |
-
-The team includes a mix of core personnel (e.g., speaker, ambassadors), support staff, and external providers for media and catering.
-
-For more on the media team visit [Motion Minds](https://motionminds.com)
-
-
+The team assembled for this initiative brings expertise in blockchain, event management, and content creation:
+- **Retrodrive**: Speaker/Host – Responsible for leading booth interactions, delivering talks on Qubic's technology, hosting demo sessions, and promoting the giveaway to engage attendees.
+- **Defi**: Support – Handles logistics, booth operations, attendee follow-ups, and manages giveaway registration, leveraging experience in community support and DeFi integrations.
+- **Videographer & Editor (TBD)**: A local professional to document the event and produce post-event content, ensuring high-quality videos and edits for marketing purposes.
 
 ## 5. Plan of Execution
-The execution plan follows a detailed schedule from Monday, November 3 to Saturday, November 8, 2025, covering arrival, setup, engagement, and wrap-up. Activities are coordinated to align with team arrivals, production starts, and networking events. Key highlights include daily breakfast distributions, booth operations, media recording, lunch rotations, dinners, and evening networking.
+The execution will follow a phased approach:
+- **Pre-Event (October 2025)**: Finalize booth design and branding materials; coordinate with conference organizers for setup; prepare promotional items, giveaway mechanics, and demo scripts; book videographer & editor and confirm team travel/logistics.
+- **During Event (November 5-6, 2025)**: Set up booth on Day 1; host interactive sessions led by Retrodrive; distribute materials, manage giveaway signups via wallet/email registration, and collect leads; capture video content throughout.
+- **Post-Event (November-December 2025)**: Edit and release video highlights produced by the videographer & editor; distribute Qubic token giveaways to registered participants; follow up on leads via email/social media; analyze metrics and report back to the CCF on outcomes.
+All activities will comply with conference guidelines and prioritize safety and professionalism.
 
 ## 6. Budget
-The budget totals $89,213.32, including a 12.7% contingency fund for overages and emergencies. Remaining funds will support future community efforts. Breakdown by category:
+The total requested budget is $53,000, broken down as follows:
 
-| Item | Count | Description | Price | Fees | Fee Description | Total |
-|------|-------|-------------|-------|------|-----------------|-------|
-| **Travel** | | | | | | |
-| Airfare - Roundtrip flights | 3 | Roundtrip - Domestic - to Miami International Airport | $600.00 | $160.00 | Check bag / airport ride | $2,280.00 |
-| Airfare - Roundtrip flights | 2 | Roundtrip - International - to Miami International Airport | $1,000.00 | $200.00 | Check bag / airport ride / visa | $2,400.00 |
-| Transportation - Car Rental | 2 | Tahoe or Equivalent \| fully Insured \| unlimited mileage | $600.00 | $400.00 | Insurance & Refuel | $2,000.00 |
-| Accommodations - Lodging | 1 | Air BNB \| sleeps 5 \| 5day rental | $2,800.00 | $200.00 | Service fees | $3,000.00 |
-| Accommodations - Breakfast | 5 | Breakfast Catering for 5 days | $200.00 | $20.00 | Taxes | $1,100.00 |
-| **Conference** | | | | | | |
-| General - Sponsor package | 1 | Bronze tier | $10,000.00 | | | $10,000.00 |
-| General - Booth | 1 | Booth Assembly | $10,000.00 | | | $10,000.00 |
-| General - Mixer | 1 | Happy hour mixer | $15,000.00 | | | $15,000.00 |
-| General - Parking | 2 | Unexpected Parking fees | $100.00 | | | $200.00 |
-| **Staff** | | | | | | |
-| Media - Insured Audio Video Crew | 1 | Local. Insured. Editor included. 2 man team \| handle their own accommodations | $15,000.00 | | | $15,000.00 |
-| Media - Social Media Expert | 1 | Works in step with media to create optimized content for social media and blogs | $3,600.00 | | | $3,600.00 |
-| General - Meals & Incidentals | 4 | Per diem for each non media crew 80 per day for 5 days | $400.00 | | | $1,600.00 |
-| Core - Speaker | 1 | Qualified Team member responsible for speaking events and networking | $1,200.00 | | | $1,200.00 |
-| Support - Ambassador | 2 | Responsible for event support & Networking | $1,000.00 | | | $2,000.00 |
-| Organizer - Lead | 1 | Responsible for overseeing production and logistics | $2,000.00 | | | $2,000.00 |
-| **Materials** | | | | | | |
-| Design - Graphic Designer | 1 | Design all products for media and decor | $2,200.00 | | | $2,200.00 |
-| Promotional - Teeshirts | 120 | 1 color ink \| premium fitted tees | $12.72 | $2.03 | Shipping | $1,770.00 |
-| Promotional - Magnets | 1000 | 4x2” die cut magnets | $0.45 | $0.04 | Shipping | $490.00 |
-| Promotional - Stickers | 1000 | 4x2" die cut stickers | $0.28 | $0.03 | Shipping | $310.00 |
-| Promotional - Buttons | 1000 | 1” button pins \| assorted colors | $0.22 | $0.04 | Shipping | $260.00 |
-| Promotional - Bags | 500 | Canvas Tote Bags | $3.50 | $0.10 | Shipping | $1,800.00 |
-| Promotional - Pens | 1000 | Retractable pens - pensxpress | $0.39 | $0.06 | Shipping | $450.00 |
-| Decor - TBD | | | $0.00 | | | $0.00 |
-| Team Identity - Polo Shirts | | | $0.00 | | | $0.00 |
-| Team Identity - Hats | | | $0.00 | | | $0.00 |
-| **Miscellaneous** | | | | | | |
-| General - Exchange fees | 1 | Buffer for Crypto & fiat transfers | $500.00 | | | $500.00 |
-| **Contingency** | | | | | | |
-| General | | 12.7% Buffer fund for all overages and emergencies - The remaining money will go into a fund to assist with future efforts | | | | $10,053.32 |
-| **Grand Total** | | | | | | $89,213.32 |
+| Item | Description | Cost (USD) |
+|------|-------------|------------|
+| Package Tier | Copper tier booth package | 5,000 |
+| Booth Setup | Copper 24” x 24” counter & 4’ branded back wall | 5,000 |
+| Lanyards | Custom branded lanyards for attendees | 35,000 |
+| Videographer & Editor | Local professional (including on-site filming and post-event production) | 5,000 |
+| Promotional Materials | Stickers, t-shirts, magnets, bags, flyers | 3,000 |
+| **Total** | | **53,000** |
+
+Additionally, 150 million Qubic tokens are allocated for the giveaway campaign to incentivize wallet and email signups. This budget covers all direct costs; no additional funds are requested for travel or contingencies at this time.
 
 ## 7. Goals and KPIs
-The following goals and KPIs will measure the success of the initiative:
+The primary goals are to boost Qubic's brand awareness, generate leads, and foster partnerships. Measurable KPIs are outlined below:
 
-| Goal | Description | Target | KPI |
-|------|-------------|--------|-----|
-| Booth interactions | Engage with conference attendees | 1.5k+ interactions | Tracked by … Maybe, Giveaway metrics? Figure this out.. |
-| Stage Time | Deliver a keynote speech or a panel | Gather footage of talk to use for content | Recorded Media to apply towards online presence and future campaigns |
-| Developers | Engage with at least 5 devs who are interested in building on Qubic | Bring the devs to us with … Help me out here | Written followup within 3 Business days following the conference |
-| Other Interest | Connect with Industry Leaders and Operators | Use the mixer to connect with high value objectives. | Written followup within 3 business days following the conference |
-| Printed or Written Invites to Future events | Achieve invites to events, meetups, or conferences. | Look out for flyer invites and apply high level networking. Apply events to social crew’s schedule. | The social schedule will have documented entries of all past and future events derived by this effort |
-| Media Output | Deliver high quality photos and videos of the event. | Media Team will execute a documentary styled recording. As well as capture interviews and event footage | 100+ photos (including photos from videos), 1 mini-documentary, several shorts and trailers, 1 fully edited Keynote or panel, a copy of all footage for future usage. |
-| Wallet Signups & integrations | Garner 100+ new wallet registration signups | Use Giveaway as an attraction for guests to signup | Giveaway signups and giveaway wallet transactions |
-| Promotional outreach | Giveaway Promotional Items. Give away as much as 100% off all promotional items | Empty Booth, no boxes to carry home. | Final report |
-| Final report | Written report documenting the outcome | Draft a report detailing all KPI results and Other findings. | Final report made available within 5 business days of conference. |
+| Goal | KPI | Target |
+|------|-----|--------|
+| Attendance and Engagement | Number of booth visitors | 300+ visitors |
+| Attendance and Engagement | Number of demo interactions tracked via sign-up sheets or QR codes | 100+ interactions |
+| Lead Generation | Email contacts or wallet addresses collected through giveaway campaign | 75+ signups |
+| Media and Social Impact | High-quality video content pieces produced (e.g., event highlights, interviews, promotional clips) | 3+ pieces |
+| Partnership Outcomes | Discussions initiated with potential collaborators (e.g., AI projects or investors), with follow-up tracked over 3 months | 5+ discussions |
 
 ## 8. Conclusion
-This booth at the Blockchain Futurist Conference represents a strategic opportunity to elevate Qubic's profile, secure valuable connections, and generate content that supports ongoing growth. With a comprehensive team, detailed plan, and clear KPIs, this initiative promises high returns on investment through increased adoption and community engagement.
+Securing a booth at the Blockchain Futurist Conference USA 2025 represents a strategic opportunity for Qubic to expand its reach in the U.S. Web3 market, leveraging the event's proven track record of high attendance and innovation-focused programming. With a dedicated team, a clear execution plan including a 150 million Qubic token giveaway, and a focused budget, this initiative will deliver tangible value to the Qubic ecosystem. We urge the CCF to approve this proposal to propel Qubic forward in the global blockchain landscape.
