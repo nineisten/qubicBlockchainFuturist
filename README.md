@@ -1,8 +1,8 @@
 # CCF Proposal: Qubic USA x Blockchain Futurist Conference (Miami)
 
 ## Details
-- Event: Qubic @ RareEvo Conference, Las Vegas, August 6-10, 2025 (3 weeks from July 16, 2025)
-- Organizer: Evandon
+- Event: Qubic @ Blockchain Conference, Miami, Florida, November 5th & 6th, 2025
+- Organizer: Qubic
 - Funding Requested: $53,000 or 34.1 Billion Qubic @ $1561/bQubic
 
 ## Available Options
